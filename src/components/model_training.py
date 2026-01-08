@@ -1,0 +1,1 @@
+# model training component is used to train machine learning models for the application

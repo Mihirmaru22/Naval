@@ -1,0 +1,1 @@
+ # data_trasfomation component is used to transform and prepare data for modeling
